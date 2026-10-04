@@ -16,8 +16,8 @@ Get the newest version from [Releases](https://github.com/zsigsza/MCsync-release
 | macOS (Intel and Apple silicon) | `MCsync_…_universal.dmg` |
 | Linux | `MCsync_…_amd64.AppImage` |
 
-On Linux, use the AppImage: it's the one that can update itself. Make it executable
-(`chmod +x`) and run it.
+On Linux the AppImage is simplest: make it executable (`chmod +x`) and run it. The
+`.deb` and `.rpm` work too; those ask for your password when MCsync updates itself.
 
 ## First start
 
