@@ -12,9 +12,9 @@ Get the newest version from [Releases](https://github.com/zsigsza/MCsync-release
 
 | System | Download |
 | --- | --- |
-| Windows | `MCsync_…_x64-setup.exe` |
-| macOS (Intel and Apple silicon) | `MCsync_…_universal.dmg` |
-| Linux | `MCsync_…_amd64.AppImage` |
+| Windows | `mcsync-desktop_…_x64-setup.exe` |
+| macOS (Intel and Apple silicon) | `mcsync-desktop_…_universal.dmg` |
+| Linux | `mcsync-desktop_…_amd64.AppImage` |
 
 On Linux, use the AppImage: it's the one that can update itself. Make it executable
 (`chmod +x`) and run it.
